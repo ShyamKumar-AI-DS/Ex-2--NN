@@ -131,7 +131,7 @@ plt.show()
 # OUTPUT:
 ### DATASET:
 ![image](https://github.com/ShyamKumar-AI-DS/Ex-2--NN/assets/93427182/efb7554a-7610-4afa-b1d7-afe8c426f893)
-<br>
+<br></br>
 ![image](https://github.com/ShyamKumar-AI-DS/Ex-2--NN/assets/93427182/c6ea5d1b-9387-4cc8-b0fb-2f6b57eec648)
 
 
